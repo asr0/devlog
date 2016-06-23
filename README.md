@@ -6,3 +6,4 @@
 
 2.[ASP.NET MVC - Pagination Example with Logic like Google](http://www.swift.homolog.adttemp.com.br/ondecomprar-vans.aspx)
 
+3.[Qual a diferença de usar && ou & em um if? || ou |? Como fazer um if ternário?](http://gabsferreira.com/operador-curto-circuito-e-if-ternario/)
