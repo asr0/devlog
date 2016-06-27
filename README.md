@@ -10,3 +10,5 @@
 - [Qual a diferença de usar && ou & em um if? || ou |? Como fazer um if ternário?](http://gabsferreira.com/operador-curto-circuito-e-if-ternario/)
 
 - [Programmatically Lighten or Darken a hex color (or rgb, and blend colors)](http://stackoverflow.com/questions/5560248/programmatically-lighten-or-darken-a-hex-color-or-rgb-and-blend-colors/13542669#13542669)
+
+-[Entendendo threads em C#](http://pt.stackoverflow.com/questions/14904/entendendo-threads-em-c)
